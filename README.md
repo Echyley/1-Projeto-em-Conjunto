@@ -7,19 +7,32 @@ ________________________________________________________________________________
 Algoritmo :arrow_down_small:
 
 tela de cadastro
-    nome do jogo
-       introdução (Sobre o jogo)
-          login
-            nick ou email, senha;
-          registrar cadastro no banco de dados
-            nick ou email , senha;
+
+​    nome do jogo
+
+​       introdução (Sobre o jogo)
+
+​          login
+
+​            nick ou email, senha;
+
+​          registrar cadastro no banco de dados
+
+​            nick ou email , senha;
+
+
 
 tela de escolha de personagem
+
   personagens
-    p1,p2,p3 [...];
-     cliques (mouse)
-       botão direito para info;
-       botão esquerdo pra selecionar;
+
+​    p1,p2,p3 [...];
+
+​     cliques (mouse)
+
+​       botão direito para info;
+
+​       botão esquerdo pra selecionar;
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -56,25 +69,41 @@ Um cientista biomédico que deseja ajudar as pessoas, mas limitado pelo governo 
 São 3 personagens principais, os 3 começam no nível mais baixo, mas dependendo das suas individualidades pode ficar mais fácil ou mais difícil desenvolver uma certa habilidade.
 
 *__Theris Quinorin__*
+
 Idade: 34
+
 Força 10
+
 Velocidade 7
+
 Bio: Um cavaleiro desertado por apenas ter sido quem é, Theris é muito sincero e não conseguiu se segurar ao ver a corrupçao dentro de seu reino! Fraco, ele decidiu partir e se tornar mais forte para poder ajudar de verdade seu povo.
 
 Ponto de partida: ❌
 
+
+
 *__Ashyda Lyalar__*
+
 Idade: 22
+
 Força 8
+
 Velocidade 10
+
 Bio: Cansada da pobreza de sua vida no campo, Ashyda sai em busca de mudar sua vida e daqueles amados que deixou pra trás, sua vida não teve um destino muito gentil, mas graças a seu pai uma grande determinação cresceu em seu coração!
 
 Ponto de partida: ❌
 
+
+
 *__Obeh-Ide Macguffin (Obi)__*
+
 Idade: ?
+
 Força 8
+
 Velocidade 8
+
 Bio: Alguém realmente misterioso, sabe-se pouco sobre seu passado, mas realmente é alguém equilibrado!
 
 Ponto de partida: ❌
